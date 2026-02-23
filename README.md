@@ -34,22 +34,19 @@
 
 > Display labels use slashes (e.g., `Feb 2 / Feb 8`), but folder names use a GitHub-safe format (e.g., `Feb-2--Feb-8`) because `/` cannot be used in actual folder names.
 
-- [Feb 2 / Feb 8](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Feb-2--Feb-8)
-- [Feb 9 / Feb 15](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Feb-9--Feb-15)
-- [Feb 16 / Feb 22](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Feb-16--Feb-22)
-- [Feb 23 / Mar 1](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Feb-23--Mar-1)
-- [Mar 2 / Mar 8](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Mar-2--Mar-8)
-- [Mar 9 / Mar 15](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Mar-9--Mar-15)
-- [Mar 16 / Mar 22](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Mar-16--Mar-22)
-- [Mar 23 / Mar 29](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Mar-23--Mar-29)
-- [Mar 30 / Apr 5](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Mar-30--Apr-5)
-- [Apr 6 / Apr 12](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Apr-6--Apr-12)
-- [Apr 13 / Apr 19](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Apr-13--Apr-19)
-- [Apr 20 / Apr 26](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Apr-20--Apr-26)
-- [Apr 27 / May 3](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/Apr-27--May-3)
-- [May 4 / May 10](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/May-4--May-10)
-- [May 11 / May 17](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/May-11--May-17)
-- [May 18 / May 18](https://github.com/SpoonSabre/Development-Economics/tree/main/01-weeks/May-18--May-18)
+- [Feb 2](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Feb%202)
+- [Feb 9](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Feb%209)
+- [Feb 16](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Feb%2016)
+- [Feb 23](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Feb%2023)
+- [Mar 2](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Mar%202)
+- [Mar 9](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Mar%209)
+- [Mar 16](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Mar%2016)
+- [Mar 23](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Mar%2023)
+- [Apr 13](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Apr%2013)
+- [Apr 20](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/Apr%2020)
+- [May 4](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/May%204)
+- [May 11](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/May%2011)
+- [May 18](https://github.com/SpoonSabre/Economics-Of-Development/tree/main/Lectures/May%2018)
 
 ---
 
